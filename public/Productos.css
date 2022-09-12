@@ -1,0 +1,13 @@
+table {
+    display: block;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid rgb(64, 64, 64);
+    padding: 15px;
+}
+.main.titles {
+    text-align: center;
+    display: block;
+}
